@@ -1,0 +1,73 @@
+
+
+body {
+         background: white ;
+         padding: 0;
+         margin: 0;
+}
+
+
+{
+      front-family: Merryweather;
+
+}
+h1 {
+        font-size: 52px;
+        text-align: center;
+        color:black;
+        text-shadow: 2px 2px 5px grey;
+}
+
+img {
+        width: 152px;
+        height: 170px;
+}
+
+.product {
+
+          display: flex;
+          height: 170px;
+          margin-top: 10px;
+          background-color:#E8E8E8;
+          border-radius: 15px;
+          padding:10px;
+          width: 65%;
+
+
+}
+
+h2 {
+         width: 500px;
+}
+p {
+        width:500px;
+}
+button {
+             margin-left: auto;
+             height: 52;
+             width: 152;
+             border: none;
+             border-radius:15px;
+             cursor: pointer;
+
+}
+.navigation{
+
+}
+a {
+    margin-left:10px;
+    text-decoration: none;
+    front-size: 15px;
+    justify-content: center;
+}
+.productList{
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+}
+.price{
+        width: 150px;
+        margin-left: auto;
+        text-align: center;
+
+}
